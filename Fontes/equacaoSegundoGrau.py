@@ -4,7 +4,8 @@ Função:
     Equação do segundo grau
 Autor:
     Ed - Data: 20/05/2016 -
-Observações: COmplexidade: ?
+Observações: Complexidade: ?
+Alteracoes realizadas por Ed para o novo Branch
 """
 #Com anotações
 def eq2(a: int, b:int, c: int):

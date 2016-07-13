@@ -5,6 +5,7 @@ Função:
 Autor:
     Professor Ed - Data: 29/05/2016 -
 Observações:  ?
+Alteracoes realizadas por Ed para o novo Branch
 """
 def gera_matriz_lancamentos(matriz, tamanho):
 	import random

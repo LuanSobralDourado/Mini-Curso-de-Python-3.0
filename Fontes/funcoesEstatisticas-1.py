@@ -4,6 +4,7 @@ Função:
 Autor:
     Ed - Data: 20/05/2016 -
 Observações: Complexidade: 1 ?
+Alteracoes realizadas por Ed para o novo branch
 """
 #Com anotações
 def media(lista):
