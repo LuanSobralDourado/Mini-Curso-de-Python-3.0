@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from tkinter import *
 
 class App:
@@ -8,7 +9,7 @@ class App:
         self.bt_sair = Button(frame, text='Sair', fg='red', command = self.quit)
         self.bt_sair.pack(side=LEFT)
 
-        self.bt_hello = Button(frame, text='Olá', fg='black', command = self.hello)
+        self.bt_hello = Button(frame, text='Ola', fg='black', command = self.hello)
         self.bt_hello.pack(side=LEFT)
 
     def quit(self):

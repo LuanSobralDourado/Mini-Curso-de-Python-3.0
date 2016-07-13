@@ -1,3 +1,4 @@
+#-*- UTF-8 -*-
 """
 Função:
     Equação do segundo grau
